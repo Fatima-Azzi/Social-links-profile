@@ -36,13 +36,13 @@ body{
     place-content: center;
     background-color: var(--Grey-900);
     color: #fff;
+    height: 100vh;
 }
 
 #card{
     background-color: var(--Grey-800);
     width: 400px;
     height: 615px;
-    margin: 3rem auto auto auto;
     padding: 2rem;   
 }
 
